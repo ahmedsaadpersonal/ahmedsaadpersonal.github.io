@@ -65,6 +65,7 @@ body {
 
 .image {
     background-image: url("https://i.pinimg.com/originals/e9/03/cf/e903cfedbf621f74274de2d24dc6fc42.jpg");
+     background-size: cover;
 }
 
 #download{
